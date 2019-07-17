@@ -10,6 +10,7 @@
     "connected-react-router": "^6.4.0",
     "loglevel": "^1.6.3",
     "react": "^16.8.6",
+    "react-browser-notifications": "^1.0.14",
     "react-dom": "^16.8.6",
     "react-redux": "^7.1.0",
     "react-router-dom": "^5.0.1",
